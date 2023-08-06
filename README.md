@@ -1,2 +1,1 @@
-# hello-world
-die ersten Gehversuche
+Liselotte
